@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri May 29 00:02:34 2026
+# Process ID         : 21972
+# Current directory  : C:/Users/buddh/Universal_Shift-Register-implementation-using-FPGA/Shift_Register
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent7872 C:\Users\buddh\Universal_Shift-Register-implementation-using-FPGA\Shift_Register\Shift_Register.xpr
+# Log file           : C:/Users/buddh/Universal_Shift-Register-implementation-using-FPGA/Shift_Register/vivado.log
+# Journal file       : C:/Users/buddh/Universal_Shift-Register-implementation-using-FPGA/Shift_Register\vivado.jou
+# Running On         : DESKTOP-LL6P72O
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 12653 MB
+# Swap memory        : 13791 MB
+# Total Virtual      : 26445 MB
+# Available Virtual  : 2840 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/buddh/Universal_Shift-Register-implementation-using-FPGA/Shift_Register/Shift_Register.xpr
