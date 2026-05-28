@@ -133,3 +133,6 @@ INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/2025.2/Vivado/data/ip'.
 open_project: Time (s): cpu = 00:01:24 ; elapsed = 00:00:47 . Memory (MB): peak = 1708.285 ; gain = 266.289
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri May 29 00:59:04 2026...
