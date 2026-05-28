@@ -90,7 +90,8 @@ Simulation confirms correct operation of all four modes:
 * Shift Right
 * Shift Left
 
-<img
+<img src="./Images/Schemetic.png">
+<img src ="./
 
 The RTL schematic and waveform results verify that the register responds correctly to control inputs and clock transitions.
 
