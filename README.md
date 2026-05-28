@@ -1,1 +1,1 @@
-# Universal_Shift-Register-implementation-using-FPGA
+# Universal_Shift Register implementation using FPGA
