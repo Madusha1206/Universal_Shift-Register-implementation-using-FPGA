@@ -97,5 +97,7 @@ The RTL schematic and waveform results verify that the register responds correct
 
 ## Conclusion
 
-The implemented 4-bit Universal Shift Register successfully demonstrates multiple data movement operations using a single register structure. The integration of a clock divider enables easy observation of register behavior on FPGA hardware while maintaining correct sequential logic functionalit
+The implemented 4-bit Universal Shift Register successfully demonstrates multiple data movement operations using a single register structure. The integration of a clock divider enables easy observation of register behavior on FPGA hardware while maintaining correct sequential logic functionality.
+
+
 check this : https://youtube.com/shorts/CSITQXWof5s
